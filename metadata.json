@@ -1,0 +1,8 @@
+{
+  "name": "Mahalla Ta’lim AI",
+  "description": "1-11-sinf o‘quvchilari va ota-onalar uchun mo‘ljallangan sun’iy intellekt asosidagi ta’lim yordamchisi. Namangan viloyati Chust Tumani Olmos qishlog'idan Abdujabborov Doniyorbek tomonidan yaratilgan.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
